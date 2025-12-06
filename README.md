@@ -1,5 +1,5 @@
 # composting_project
-Data for my Medium article on NYC composting programs
+Data for my Medium article on NYC composting programs.
 
 The following files are available in this folder:
 - `Final_Project.R` and `Final_Project.Rproj` contain the R code where I analyzed composting data
