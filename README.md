@@ -3,7 +3,7 @@ Data for my Medium article on NYC composting programs.
 
 The following files are available in this folder:
 - `Final_Project.R` and `Final_Project.Rproj` contain the R code where I analyzed composting data
-- `DSNY_Monthly_Tonnage_Data_20251130.csv` contains the DSNY-collected [monthly tonnage data](https://data.cityofnewyork.us/City-Government/DSNY-Monthly-Tonnage-Data/ebb7-mvp5/about_data)
+- `DSNY_Monthly_Tonnage_Data_20251130.csv` contains the DSNY-collected [monthly tonnage data](https://data.cityofnewyork.us/City-Government/DSNY-Monthly-Tonnage-Data/ebb7-mvp5/about_data). If you get a 403 forbidden error, just refresh the page.
 - `Dem_19-23_CDTA.csv` contains the 2023 NYC community district [population estimates](https://www.nyc.gov/content/planning/pages/resources/datasets/american-community-survey)
 - The below files were created by scraping data from analyses conducted by Stephanie MacBride:
   - `FY24_CD_capture`
